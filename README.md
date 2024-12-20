@@ -36,8 +36,8 @@ Training Report - [Link](https://api.wandb.ai/links/tulasiram/7sevdwk6)
 ## Installation
 ```bash
 # Clone the repository
-git clone [repository-url]
-cd [repository-name]
+git clone https://github.com/0-hero/gpt2-positional-encoding-experiment.git
+cd gpt2-positional-encoding-experiment
 
 # Set up the environment
 bash setup.sh
